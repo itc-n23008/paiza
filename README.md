@@ -7,7 +7,7 @@
 
 [ショートヘアー](lovehackathon.md/shorthair.py)
 
-[ロングヘアー](lovehackathon.md/longhatr.py)
+[ロングヘアー](lovehackathon.md/longhair.py)
 
 [ポニーテール](lovehackathon.md/ponytail.py)
 
