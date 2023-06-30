@@ -1,11 +1,9 @@
-def find_middle_number(N, NumSequence):
-    NumSequence.sort(reverse=True)
-    CenterIndex = (N + 1) // 2 - 1
-    return NumSequence[CenterIndex]
+def f(n, a):
+    return sorted(a)[n // 2]
 
-N = int(input("数字の個数を入力してください: "))
-NumSequence = list(map(int, input("数字をスペース区切りで入力してください: ").split()))
 
-Answer = find_middle_number(N, NumSequence)
-print(Answer)
+n = int(input())
+a = [int(i) for i in input().split()]
 
+result = f(n, a)
+print(result)
