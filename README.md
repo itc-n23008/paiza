@@ -15,21 +15,19 @@
 
 [おさげ](lovehackathon.md/pigtails.py)
 
-[たれ目](lovehackathom.md/droopingeyes.py)
+[たれ目](lovehackathon.md/droopingeyes.py)
 
-[つり目](lovehackathom.md/slantedeyes.py)
+[つり目](lovehackathon.md/slantedeyes.py)
 
-[めがね](lovehackathom.md/glasses.py)
+[めがね](lovehackathon.md/glasses.py)
 
-[cute衣装](lovehackathom.md/cutecostume.py)
+[cute衣装](lovehackathon.md/cutecostume.py)
 
-[sexy衣装](lovehackathom.md/sexycostume.py)
+[sexy衣装](lovehackathon.md/sexycostume.py)
 
-[制服](lovehackathom.md/uniform.py)
+[浴衣](lovehackathon.md/yukata.py)
 
-[浴衣](lovehackathom.md/yukata.py)
-
-[水着](lovehackathom.md/swimsuit.py)
+[水着](lovehackathon.md/swimsuit.py)
 
 # she.md_プログラミングで彼女を作る
 
